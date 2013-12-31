@@ -39,4 +39,5 @@ Documentation will be updated with:
 * Unique fields
 * Match logic explained
 * Match against multiple values
+* Setting default values
 * Helpful scenarios when you can use this library
